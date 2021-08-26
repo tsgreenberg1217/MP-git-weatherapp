@@ -1,33 +1,33 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:2:1-9:12
 	package
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:5:5-7:19
+ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:5:5-7:19
 activity#com.example.headermodules.MainHeaderActivity
-ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:6:9-79
+ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:6:9-79
 	android:exported
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:6:54-77
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:6:54-77
 	android:name
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml:6:19-53
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml:6:19-53
 uses-sdk
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-		ADDED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
-		INJECTED from /Users/toddgreenberg/Documents/apps/ModularizationPlayground/weatherHeaderModule/src/main/AndroidManifest.xml
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+		ADDED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml
+		INJECTED from /Users/toddgreenberg/Documents/apps/MP-git-app/MP-git-weatherapp/src/main/AndroidManifest.xml

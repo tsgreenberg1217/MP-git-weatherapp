@@ -34,12 +34,9 @@ android {
     }
 }
 dependencies {
-    implementation project('' +
-            ':network')
-    implementation project('' +
-            ':database')
-    implementation project('' +
-            ':data_utility')
+    api project(':MP-git-network')
+    api project(':MP-git-database')
+    api project(':MP-git-data-util')
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.6.0'
     implementation 'androidx.appcompat:appcompat:1.3.1'
